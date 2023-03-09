@@ -1,0 +1,4 @@
+files:
+  converted_datasets: ../converted
+  prepared_datasets: ../prepared
+model: DeepPavlov/rubert-base-cased

@@ -1,0 +1,8 @@
+notebooks
+data/raw
+data/converted
+data/prepared
+models
+results
+src/output
+src/artifacts

@@ -1,0 +1,5 @@
+files:
+  prepared_datasets: ../data/prepared/
+artifacts: artifacts/
+output: output/
+model: DeepPavlov/rubert-base-cased
